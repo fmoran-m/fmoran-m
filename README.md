@@ -15,7 +15,5 @@ programming, backend systems, and creating awesome graphics and video games. You
 <div align="center">
 
 ![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fmoran-m&theme=algolia)
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fmoran-m&theme=algolia)
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fmoran-m&theme=algolia&utcOffset=8)
 
 </div>
