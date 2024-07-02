@@ -1,5 +1,6 @@
-## Hi there 👋
+## About Me
 
+Hello everyone! My name is Fran and I am a Software Developer currently studying at 42 Madrid Fundación Telefonica and former audiovisual specialist/event producer. Passionate about low-level programming, backend systems, graphics, and video game creation. 
 <!--
 **fmoran-m/fmoran-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
