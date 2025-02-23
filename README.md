@@ -6,8 +6,7 @@
   
 </div>
 <div align="justify">
-I'm Fran, currently diving into the world of software development at 42 Madrid Fundación Telefónica. In my previous life, I was knee-deep in the audiovisual scene, rocking it as an event producer. Now, my heart beats for low-level 
-programming, backend systems, and creating awesome graphics and video games. You'll often find me immersed in C, C++, and Bash, exploring the endless possibilities they offer. Let's build something beautiful.
+Software Developer currently studying at 42 Madrid Fundación Telefónica and former audiovisual professional/event producer. Passionate about low-level programming, backend systems, graphics, and video game creation.
 </div>
 <br>
 
