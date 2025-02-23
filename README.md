@@ -1,18 +1,17 @@
-## Hi everyone!
+# Hi everyone!
 
-<div align="center">
-  
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-mor%C3%A1n-47123588/)
-  
-</div>
-<div align="justify">
-Software Developer currently studying at 42 Madrid Fundación Telefónica and former audiovisual professional/event producer. Passionate about low-level programming, backend systems, graphics, and video game creation.
-</div>
-<br>
 
-<br>
-<div align="center">
+I'm Fran, a software developer from Madrid and a current student at 42 School. I learned programming from the ground up, starting with C and C++, so low-level will always be a part of me.
 
-![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fmoran-m&theme=algolia)
+I am currently exploring the world of web development, backend engineering, and system administration. I also enjoy designing and coding small video games whenever I have the time.
 
-</div>
+## Main Tech
+
+- C
+- C++
+- Docker
+- Javascript / Typescript
+- HTML / CSS
+- Node.js
+- Bash
