@@ -13,5 +13,6 @@ I am currently exploring the world of web development, backend engineering, and 
 - Docker
 - Javascript / Typescript
 - HTML / CSS
-- Node.js
+- TailwindCSS
+- Node.js / Fastify
 - Bash
